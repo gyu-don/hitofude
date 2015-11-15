@@ -1,0 +1,8 @@
+qt4_hitofude.py included PyQt4 library which is licensed under GPL,
+and Oxygen icons which is licensed under LGPL.
+therefore, these codes are distributed under GPL. Refer "LICENSE.GPL".
+
+PyQt4 is distributed by Riverbank Computing.
+https://www.riverbankcomputing.com/news
+oxygen-icons are distributed by Oxygen Project, KDE.
+http://www.kde.org/
